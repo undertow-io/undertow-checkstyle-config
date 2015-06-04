@@ -25,13 +25,13 @@
     <parent>
       <groupId>org.jboss</groupId>
       <artifactId>jboss-parent</artifactId>
-      <version>11</version>
+      <version>18</version>
     </parent>
 
     <groupId>io.undertow.build</groupId>
     <artifactId>undertow-checkstyle-config</artifactId>
     <name>Undertow Checkstyle Configuration</name>
-    <version>1.0.0.Final</version>
+    <version>1.0.1.Final-SNAPSHOT</version>
     <description>The checkstyle config for the Undertow build</description>
 
 </project>
