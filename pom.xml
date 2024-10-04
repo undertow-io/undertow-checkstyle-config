@@ -25,7 +25,7 @@
     <parent>
       <groupId>org.jboss</groupId>
       <artifactId>jboss-parent</artifactId>
-      <version>18</version>
+      <version>46</version>
     </parent>
 
     <groupId>io.undertow.build</groupId>
